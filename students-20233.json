@@ -313,5 +313,13 @@
     "dob": "2002-04-25",
     "gender": "male",
     "email": "20690130@tecvalles.mx"
+  },
+  {
+    "name": "Leysli",
+    "last_name": "Cruz Contreras",
+    "dob": "2002-07-17",
+    "gender": "female",
+    "email": "20690069@tecvalles.mx"
   }
+  
 ]
